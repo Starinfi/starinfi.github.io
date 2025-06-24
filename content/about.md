@@ -6,11 +6,11 @@ aliases = ["about-us","about-hugo","contact"]
   name = "上海芯尘边缘科技有限公司"
 +++
 ## 创始团队
-赵钊
+创始人.赵钊
 
 有建议和不满意的地方，欢迎随时和我联系噢
 
-![](images/founder_wechat_qr_code.jpg)
+![创始人微信](/img/founder_wechat_qr_code.jpg)
 
 
 ## 联系我们
